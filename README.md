@@ -1,1 +1,1 @@
-# panel-hosting
+# nova-hosting
